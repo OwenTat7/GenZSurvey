@@ -1,0 +1,2 @@
+This survey is designed to understand how Gen Z interacts with technology, manages finances, and perceives online scams. Your responses are anonymous and will be used for research purposes only. 
+The files in this repository include the results as of 6/24/2025; my data cleaning and EDA; and the html file to view my process!
